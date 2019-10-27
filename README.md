@@ -17,6 +17,9 @@ Either way, I don't care.
 `DEV`das
 
 ***
+To understand what recursion is, you must first understand recursion.
+
+***
 
 A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
 
